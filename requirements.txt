@@ -1,5 +1,5 @@
 streamlit
-pil
+PIL
 numpy
 os
 opencv-python
