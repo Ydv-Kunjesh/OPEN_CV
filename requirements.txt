@@ -1,0 +1,6 @@
+streamlit
+python
+pil
+numpy
+os
+opencv-python
