@@ -25,7 +25,7 @@ Current includes Features:
 
 # Your Project Name
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kunjesh_YAdav-blue)](https://github.com/Ydv-Kunjesh)
+[![GitHub](https://img.shields.io/badge/GitHub-Kunjesh_YAdav-blue)](https://github.com/Ydv-Kunjesh/)
 [![GitHub](https://img.shields.io/badge/GitHub-Aprajita_Singh-blue)](https://github.com/aparajitakimatsingh)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kunjesh_Yadav-blue)](https://www.linkedin.com/in/kunjesh-ydv-6a2179252?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aprajita_SIngfh-blue)](https://www.linkedin.com/in/aparajita-singh-618423258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
