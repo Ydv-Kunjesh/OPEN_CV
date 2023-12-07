@@ -1,11 +1,9 @@
-# 🎈 Streamlit + Object Detection using App using Open cv
+# 🎈 Streamlit  Object Detection APP using  using Open cv
 
-
-Starter examples for building LLM apps with Streamlit.
 
 ## Overview of the App
 
-This app showcases a Auto Detection of Objects using Open CV2.
+This App Detect an Objects using Open CV2.
 
 Current includes Features:
 
@@ -36,4 +34,4 @@ Current includes Features:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aprajita_SIngfh-blue)](https://www.linkedin.com/in/aparajita-singh-618423258?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
-
+#DEVELOPED BY APRAJITA SINGH & KUNJESH YADAV
